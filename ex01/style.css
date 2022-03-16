@@ -1,0 +1,27 @@
+body
+{
+    background-color: aliceblue;
+}
+div
+{
+    border: black 1px solid;
+    border-radius: 12px;
+    width: 280px;
+    height: 120px;
+}
+p
+{
+    margin: 10px;
+    font-size: 1.1em;
+    font-family: 'Times New Roman', Times, serif;
+}
+button
+{
+    padding: 5px;
+    margin-left: 95px;
+    width: 100px;
+    height: 30px;
+    background-color: rgb(147, 190, 204);
+    border: 1px solid rgba(0, 0, 0, 0.363);
+    border-radius: 5px;
+}

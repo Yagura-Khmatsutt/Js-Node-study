@@ -1,3 +1,2 @@
-for ('c ' in Range(0, 3));
-    c++
-    console.log(c)
+let n = document.getElementById(nome)
+let i = document.getElementById(idade)
