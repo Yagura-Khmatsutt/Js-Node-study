@@ -1,2 +1,4 @@
-let n = document.getElementById(nome)
-let i = document.getElementById(idade)
+$: document.querySelector.getElementById(nome)
+$: document.querySelector.getElementById(idade)
+
+let res = window.console.log(`Nome ${n} idade ${i}`)
